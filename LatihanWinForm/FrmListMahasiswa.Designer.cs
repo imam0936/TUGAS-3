@@ -159,6 +159,7 @@
             this.dtpTanggalLahir.Name = "dtpTanggalLahir";
             this.dtpTanggalLahir.Size = new System.Drawing.Size(97, 20);
             this.dtpTanggalLahir.TabIndex = 6;
+            this.dtpTanggalLahir.ValueChanged += new System.EventHandler(this.dtpTanggalLahir_ValueChanged);
             // 
             // txtTempatLahir
             // 

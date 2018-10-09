@@ -166,5 +166,9 @@ namespace LatihanWinForm
             }
         }
 
+        private void dtpTanggalLahir_ValueChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
