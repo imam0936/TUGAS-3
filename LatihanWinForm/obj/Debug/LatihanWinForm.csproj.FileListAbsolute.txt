@@ -1,0 +1,11 @@
+C:\Users\Anjas\source\repos\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.exe.config
+C:\Users\Anjas\source\repos\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.exe
+C:\Users\Anjas\source\repos\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.pdb
+C:\Users\Anjas\source\repos\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.csprojResolveAssemblyReference.cache
+C:\Users\Anjas\source\repos\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.Form1.resources
+C:\Users\Anjas\source\repos\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.Properties.Resources.resources
+C:\Users\Anjas\source\repos\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.csproj.GenerateResource.Cache
+C:\Users\Anjas\source\repos\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.csproj.CoreCompileInputs.cache
+C:\Users\Anjas\source\repos\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.exe
+C:\Users\Anjas\source\repos\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.pdb
+C:\Users\Anjas\source\repos\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.FrmListMahasiswa.resources
