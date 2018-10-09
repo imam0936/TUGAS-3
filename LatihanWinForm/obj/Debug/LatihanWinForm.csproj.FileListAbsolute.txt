@@ -20,3 +20,6 @@ F:\LatihanWinForm\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.csproj.
 F:\LatihanWinForm\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.csproj.CoreCompileInputs.cache
 F:\LatihanWinForm\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.exe
 F:\LatihanWinForm\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.pdb
+H:\LatihanWinForm\LatihanWinForm\bin\Debug\LatihanWinForm.exe.config
+H:\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.exe
+H:\LatihanWinForm\LatihanWinForm\obj\Debug\LatihanWinForm.pdb
